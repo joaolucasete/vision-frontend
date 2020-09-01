@@ -1,6 +1,6 @@
 import axios from 'axios'
 const api = axios.create({
-  baseURL: 'https://gabriel-backend.glitch.me:3333'
+  baseURL: 'https://gabriel-backend.glitch.me'
 })
 
 export default api
